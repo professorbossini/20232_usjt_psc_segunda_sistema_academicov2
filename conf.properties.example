@@ -1,5 +1,5 @@
-DB_HOST=
-DB_PORT=
-DB_NAME=
-DB_USER=
-DB_PASSWORD=
+DB_HOST=mysql-256ec18d-professorbossini.a.aivencloud.com
+DB_PORT=12956
+DB_NAME=defaultdb
+DB_USER=avnadmin
+DB_PASSWORD=AVNS_LGOlxuM0cjlm5QGye1e
